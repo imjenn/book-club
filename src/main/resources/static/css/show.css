@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+#container {
+	width: 50%;
+	margin: 1em auto;
+}
+
+blockquote {
+	border-top: 1px solid grey;
+	border-bottom: 1px solid grey;
+}
+
+nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 1em;
+}
+
+.username {
+	color: red;
+}
+
+.book-title {
+	color: purple;
+}
+
+.author {
+	color: green;
+}

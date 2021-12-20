@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+#container {
+	width: 50%;
+	margin: 2em auto;
+	border: 1px solid lightgrey;
+	padding: 3em;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.btn {
+	display: flex;
+	margin-left: auto;
+}

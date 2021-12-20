@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+#container {
+	width: 70%;
+	margin: 1em auto;
+}
+
+.nav {
+	display: flex;
+	flex-direction: column;
+}
+
+.nav-1 {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
